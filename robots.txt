@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://lmj029.github.io/sitemap.xml
